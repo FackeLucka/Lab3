@@ -37,7 +37,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+![This is an alt text.](\Users\Student\Proiect_web\Markdown-mark.svg "This is a sample image.")
 
 ## Links
 
